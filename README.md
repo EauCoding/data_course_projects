@@ -1,2 +1,2 @@
-# data_course_projects
-Various projects done while completing data science courses
+# Data Course Projects
+Various projects done while completing data science courses.
